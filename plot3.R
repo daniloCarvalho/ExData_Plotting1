@@ -1,3 +1,5 @@
+# Plotting Assignment 1 for Exploratory Data Analysis
+
 # Set workdirectory to my Git repository:
 setwd("~/GitHub/ExData_Plotting1/")
 
